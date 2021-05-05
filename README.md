@@ -17,4 +17,7 @@
 * 💻 C#
 * 📖 OOP 
 * 📈 JavaScript 
+* 🐳 Docker
+* ⚫ SonarQube
+* ➖ CI/CD
 * 🗣️ Always learning and improving
