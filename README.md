@@ -12,4 +12,9 @@
 
 
 ## Skills and Experience
-* 
+* ⚛️ React
+* 💻 Java
+* 💻 C#
+* 📖 OOP 
+* 📈 JavaScript 
+* 🗣️ Always learning and eveolving 
