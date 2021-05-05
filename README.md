@@ -17,4 +17,4 @@
 * 💻 C#
 * 📖 OOP 
 * 📈 JavaScript 
-* 🗣️ Always learning and eveolving 
+* 🗣️ Always learning and improving
