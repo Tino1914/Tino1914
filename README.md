@@ -24,5 +24,6 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tino1914&exclude_repo=github-readme-stats,Tino1914.github.io)](https://github.com/Tino1914/github-readme-stats)
+
 
