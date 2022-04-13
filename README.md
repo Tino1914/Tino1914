@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on FullStack/Frontend applications
 - 💬 Looking for Internship/Job
-- 📫 How to reach me: constantin_hadjiyankov@abv.bg
+- 📫 How to reach me: k.hadjiyankov@student.fontys.nl
 - ⚡ Fun fact: Love nature and sports
 -->
 
